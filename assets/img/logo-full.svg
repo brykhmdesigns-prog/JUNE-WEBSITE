@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 470" role="img" aria-label="Disemba Crochet">
+  <defs>
+    <linearGradient id="goldFull" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9e9b4"/>
+      <stop offset=".32" stop-color="#e2c463"/>
+      <stop offset=".62" stop-color="#c39a2b"/>
+      <stop offset=".84" stop-color="#a97f19"/>
+      <stop offset="1" stop-color="#ecd691"/>
+    </linearGradient>
+    <linearGradient id="goldFull2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3dfa0"/><stop offset=".5" stop-color="#d0aa3d"/><stop offset="1" stop-color="#b0881f"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(110 10)">
+    <g fill="none" stroke="url(#goldFull)" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M100 173C100 173 18 118 18 62 18 33 41 12 65 12c16 0 29 9 35 21 6-12 19-21 35-21 24 0 47 21 47 50 0 56-82 111-82 111Z" stroke-width="6"/>
+      <path d="M100 152C100 152 35 107 35 64 35 42 53 26 71 26c11 0 21 7 29 18 8-11 18-18 29-18 18 0 36 16 36 38 0 43-65 88-65 88Z" stroke-width="2.4" opacity=".68"/>
+      <path d="M55 79c19 16 34 28 56 46" stroke-width="2.2" opacity=".48"/>
+      <path d="M74 51c16 15 31 27 50 44" stroke-width="2" opacity=".36"/>
+      <path d="M63 106c15 12 29 23 41 33" stroke-width="2" opacity=".36"/>
+    </g>
+    <g stroke="url(#goldFull2)" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M43 178 149 63" stroke="#fffaf6" stroke-width="12" opacity=".8"/>
+      <path d="M43 178 149 63" stroke-width="7"/>
+      <path d="M149 63c13-11 25-6 21 6-3 9-14 11-20 4" stroke-width="7"/>
+    </g>
+    <circle cx="43" cy="178" r="6" fill="url(#goldFull2)"/>
+  </g>
+
+  <text x="210" y="292" text-anchor="middle" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="1" fill="url(#goldFull)">Disemba</text>
+  <text x="210" y="345" text-anchor="middle" font-family="'Jost', 'Helvetica Neue', Arial, sans-serif" font-size="27" letter-spacing="11" fill="url(#goldFull2)">CROCHET</text>
+</svg>
